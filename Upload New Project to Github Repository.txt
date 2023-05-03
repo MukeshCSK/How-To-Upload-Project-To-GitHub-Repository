@@ -1,0 +1,7 @@
+Create the repository in Github
+git init
+git remote add origin <Repository Link (https://github.com/MukeshCSK/How-To-Upload-Project-To-GitHub-Repository.git>
+git remote -v
+git add .
+git commit -m "First commit"
+git push origin master
